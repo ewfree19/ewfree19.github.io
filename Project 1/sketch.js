@@ -22,6 +22,10 @@ function draw() {
     beads[i].display();
   }
 }
+// function whatPic(){
+//   var p = prompt("What Color?")
+//   return p;
+// }
 //sets img to coordinates and  dimensions
 function makeAPic(){
   image(img, 40, 40 , 500, 500);
