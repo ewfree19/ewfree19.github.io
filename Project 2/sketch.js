@@ -36,7 +36,6 @@ function mouseClicked() {
   discoAmigo();
   musicPrep();
   discoAmigoPage();
-
 }
 //This makes normal Mr. Jones
 function mrJ(){
